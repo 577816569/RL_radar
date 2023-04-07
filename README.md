@@ -4,3 +4,4 @@
 * Reinforcement Learning for Relation Classification From Noisy Data.[[url]](https://ojs.aaai.org/index.php/AAAI/article/view/12063)
 * Deep reinforcement learning for imbalanced classification.[[url]](https://link.springer.com/article/10.1007/s10489-020-01637-z)
 * Intelligent Feature Selection for ECG-Based Personal Authentication Using Deep Reinforcement Learning.[[url]](https://www.mdpi.com/1424-8220/23/3/1230)
+* Deep Reinforcement Learning for Band Selection in Hyperspectral Image Classification.[[url]](https://ieeexplore.ieee.org/abstract/document/9387453)
